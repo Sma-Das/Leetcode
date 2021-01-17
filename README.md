@@ -2,8 +2,11 @@
 
 All of the ones I have attempted/completed
 
-# Easy
-
-# Medium
-
-# Hard
+### Easy
+> * intersection.py
+> * intersection.py
+> * vowelReverse.py
+### Medium
+> * kFreqElements.py
+### Hard
+> * RussianDolls.py
