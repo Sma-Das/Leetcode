@@ -5,7 +5,7 @@ Given a non-empty array of integers, return the k most frequent elements.
 # Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 
 
-def topKFrequent(nums: list[int], k: int):
+def topKFrequent(nums: list[int], k: int) -> list:
     num_dict = {}
     for key in set(nums):
         num_dict[key] = nums.count(key)

@@ -3,7 +3,7 @@ Given two arrays, write a function to compute their intersection.
 """
 
 
-def intersection(nums1: list[int], nums2: list[int]):
+def intersection(nums1: list[int], nums2: list[int]) -> set:
     return set(nums1) & set(nums2)
 
 

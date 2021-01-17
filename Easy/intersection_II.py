@@ -3,11 +3,11 @@ Given two arrays, write a function to compute their intersection.
 """
 
 
-def intersection(nums1: list[int], nums2: list[int]):
+def intersection(nums1: list[int], nums2: list[int]) -> list:
     inters = set(nums1) & set(nums2)
     res = []
     for n in inters:
-        res += [n] * (nums1.count(n) + nums2.count(n))
+        res += [n] * min(nums1.count(n), nums2.count(n))
     return res
 
 
