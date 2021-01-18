@@ -9,4 +9,5 @@ All of the ones I have attempted/completed
 ### Medium
 > * kFreqElements.py
 ### Hard
+> * minDistance.py
 > * RussianDolls.py
