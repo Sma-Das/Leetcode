@@ -8,6 +8,7 @@ All of the ones I have attempted/completed
 > * intersection.py
 > * vowelReverse.py
 ### Medium
+> * leastUniqueInts.py
 > * kFreqElements.py
 ### Hard
 > * minDistance.py
