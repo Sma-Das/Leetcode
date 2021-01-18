@@ -29,3 +29,4 @@ if __name__ == '__main__':
 
     with open(file_name, "w") as file:
         file.write("".join(contents))
+    print(f"Updated {file_name}")

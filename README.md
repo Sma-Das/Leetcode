@@ -4,6 +4,7 @@ All of the ones I have attempted/completed
 
 ### Easy
 > * intersection_II.py
+> * runningSum.py
 > * intersection.py
 > * vowelReverse.py
 ### Medium
