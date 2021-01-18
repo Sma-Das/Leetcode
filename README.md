@@ -3,7 +3,7 @@
 All of the ones I have attempted/completed
 
 ### Easy
-> * intersection.py
+> * intersection_II.py
 > * intersection.py
 > * vowelReverse.py
 ### Medium
