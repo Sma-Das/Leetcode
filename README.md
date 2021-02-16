@@ -9,6 +9,7 @@ All of the ones I have attempted/completed
 > * vowelReverse.py
 ### Medium
 > * nonDecreasingArray.py
+> * mergeIntervals.py
 > * leastUniqueInts.py
 > * kFreqElements.py
 ### Hard
