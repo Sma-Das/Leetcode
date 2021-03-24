@@ -4,6 +4,7 @@ All of the ones I have attempted/completed
 
 ### Easy
 > * intersection_II.py
+> * lengthLastWord.py
 > * runningSum.py
 > * intersection.py
 > * vowelReverse.py
@@ -11,6 +12,9 @@ All of the ones I have attempted/completed
 > * nonDecreasingArray.py
 > * mergeIntervals.py
 > * leastUniqueInts.py
+> * spiralMatrix.py
+> * maxProductTree.py
+> * newInterval.py
 > * kFreqElements.py
 ### Hard
 > * minDistance.py

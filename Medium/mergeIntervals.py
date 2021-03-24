@@ -26,4 +26,4 @@ if __name__ == '__main__':
     test1 = [[1, 3], [2, 6], [8, 10], [15, 18], [2, 4]]
     test2 = [[1, 4], [4, 5]]
     test3 = [[1, 4], [0, 5]]
-    print(merge(test3))
+    print(merge(test1))
