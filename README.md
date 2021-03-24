@@ -13,6 +13,7 @@ All of the ones I have attempted/completed
 > * mergeIntervals.py
 > * leastUniqueInts.py
 > * spiralMatrix.py
+> * LinkedListBinaryTree.py
 > * maxProductTree.py
 > * newInterval.py
 > * kFreqElements.py
