@@ -10,6 +10,7 @@ All of the ones I have attempted/completed
 > * vowelReverse.py
 ### Medium
 > * nonDecreasingArray.py
+> * uglyNumber.py
 > * mergeIntervals.py
 > * leastUniqueInts.py
 > * spiralMatrix.py
