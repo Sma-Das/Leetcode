@@ -14,10 +14,14 @@ All of the ones I have attempted/completed
 > * mergeIntervals.py
 > * leastUniqueInts.py
 > * spiralMatrix.py
+> * findCenter.py
 > * LinkedListBinaryTree.py
+> * maxProfit.py
+> * CoinChange.py
 > * maxProductTree.py
 > * newInterval.py
 > * kFreqElements.py
+> * DiceTargetSum.py
 ### Hard
 > * minDistance.py
 > * RussianDolls.py

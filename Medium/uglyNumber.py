@@ -16,7 +16,7 @@ from collections import deque
 from bisect import bisect_left
 
 
-def nthUglyNumber(self, n: int) -> int:
+def nthUglyNumber(n: int) -> int:
     res = deque([1])
 
     factor = 1
