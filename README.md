@@ -14,6 +14,7 @@ All of the ones I have attempted/completed
 > * mergeIntervals.py
 > * leastUniqueInts.py
 > * spiralMatrix.py
+> * maxAverageSum.py
 > * findCenter.py
 > * LinkedListBinaryTree.py
 > * maxProfit.py
