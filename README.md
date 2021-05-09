@@ -15,9 +15,11 @@ All of the ones I have attempted/completed
 > * leastUniqueInts.py
 > * spiralMatrix.py
 > * maxAverageSum.py
+> * displayTable.py
 > * findCenter.py
 > * LinkedListBinaryTree.py
 > * maxProfit.py
+> * 01Matrix.py
 > * CoinChange.py
 > * maxProductTree.py
 > * newInterval.py
@@ -26,3 +28,4 @@ All of the ones I have attempted/completed
 ### Hard
 > * minDistance.py
 > * RussianDolls.py
+> * MaxRequests.py
