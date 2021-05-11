@@ -4,6 +4,7 @@ All of the ones I have attempted/completed
 
 ### Easy
 > * intersection_II.py
+> * countNegatives.py
 > * lengthLastWord.py
 > * runningSum.py
 > * intersection.py
@@ -11,6 +12,7 @@ All of the ones I have attempted/completed
 ### Medium
 > * nonDecreasingArray.py
 > * uglyNumber.py
+> * alphabetBoardPath.py
 > * mergeIntervals.py
 > * leastUniqueInts.py
 > * spiralMatrix.py
@@ -19,6 +21,7 @@ All of the ones I have attempted/completed
 > * findCenter.py
 > * LinkedListBinaryTree.py
 > * maxProfit.py
+> * maxEvents.py
 > * 01Matrix.py
 > * CoinChange.py
 > * maxProductTree.py
