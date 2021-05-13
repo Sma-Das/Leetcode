@@ -30,6 +30,7 @@ All of the ones I have attempted/completed
 > * numOfSubarrays.py
 > * DiceTargetSum.py
 ### Hard
+> * uniquePathsIII.py
 > * minDistance.py
 > * RussianDolls.py
 > * MaxRequests.py
