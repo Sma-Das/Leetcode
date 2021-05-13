@@ -27,8 +27,10 @@ All of the ones I have attempted/completed
 > * maxProductTree.py
 > * newInterval.py
 > * kFreqElements.py
+> * numOfSubarrays.py
 > * DiceTargetSum.py
 ### Hard
 > * minDistance.py
 > * RussianDolls.py
 > * MaxRequests.py
+> * isPossible.py
