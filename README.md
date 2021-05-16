@@ -29,6 +29,7 @@ All of the ones I have attempted/completed
 > * kFreqElements.py
 > * numOfSubarrays.py
 > * DiceTargetSum.py
+> * countVowelString.py
 ### Hard
 > * uniquePathsIII.py
 > * minDistance.py
