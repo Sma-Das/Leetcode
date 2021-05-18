@@ -28,6 +28,7 @@ All of the ones I have attempted/completed
 > * newInterval.py
 > * kFreqElements.py
 > * numOfSubarrays.py
+> * minFallingPathSum.py
 > * DiceTargetSum.py
 > * countVowelString.py
 ### Hard
