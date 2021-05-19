@@ -24,6 +24,7 @@ All of the ones I have attempted/completed
 > * maxEvents.py
 > * 01Matrix.py
 > * CoinChange.py
+> * isValidBST.py
 > * maxProductTree.py
 > * newInterval.py
 > * kFreqElements.py
