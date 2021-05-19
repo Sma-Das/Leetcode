@@ -6,6 +6,7 @@ All of the ones I have attempted/completed
 > * intersection_II.py
 > * maxDepth.py
 > * countNegatives.py
+> * isBalanced.py
 > * lengthLastWord.py
 > * runningSum.py
 > * intersection.py
