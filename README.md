@@ -24,6 +24,7 @@ All of the ones I have attempted/completed
 > * LinkedListBinaryTree.py
 > * canReach.py
 > * maxProfit.py
+> * hasAllCodes.py
 > * maxEvents.py
 > * 01Matrix.py
 > * CoinChange.py
