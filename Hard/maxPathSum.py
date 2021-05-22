@@ -18,9 +18,9 @@ def maxPathSum(root: TreeNode) -> int:
         nonlocal ans
         if not node:
             return 0
-        left, right = find_max(node.left), find_max(node.right)
-        closed_loop = max(node.val, node.val + max(left, right))
-        ans = max(ans, closed_loop, left + node.val + right)
+        closed_loop = max(node.val,
+                          node.val + max(l := find_max(node.left), r := find_max(node.right)))
+        ans = max(ans, closed_loop, l + node.val + r)
         return closed_loop
 
     find_max(root)
