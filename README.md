@@ -22,6 +22,7 @@ All of the ones I have attempted/completed
 > * displayTable.py
 > * findCenter.py
 > * LinkedListBinaryTree.py
+> * canReach.py
 > * maxProfit.py
 > * maxEvents.py
 > * 01Matrix.py
