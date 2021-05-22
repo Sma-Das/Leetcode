@@ -39,4 +39,5 @@ All of the ones I have attempted/completed
 > * minDistance.py
 > * RussianDolls.py
 > * MaxRequests.py
+> * maxPathSum.py
 > * isPossible.py
