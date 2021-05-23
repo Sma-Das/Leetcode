@@ -25,6 +25,7 @@ All of the ones I have attempted/completed
 > * canReach.py
 > * maxProfit.py
 > * hasAllCodes.py
+> * numsSameConsecDiff.py
 > * maxEvents.py
 > * 01Matrix.py
 > * CoinChange.py
