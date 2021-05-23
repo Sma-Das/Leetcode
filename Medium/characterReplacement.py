@@ -9,6 +9,7 @@ def characterReplacement(s, k):
             else:
                 seen.add(j)
             length += 1
+            j += 1
         max_length = max(max_length, length)
         i += 1
     return max_length
