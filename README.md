@@ -35,6 +35,7 @@ All of the ones I have attempted/completed
 > * kFreqElements.py
 > * numOfSubarrays.py
 > * minFallingPathSum.py
+> * characterReplacement.py
 > * DiceTargetSum.py
 > * countVowelString.py
 ### Hard
