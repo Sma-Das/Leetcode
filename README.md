@@ -29,6 +29,7 @@ All of the ones I have attempted/completed
 > * maxEvents.py
 > * 01Matrix.py
 > * CoinChange.py
+> * findLongestWord.py
 > * isValidBST.py
 > * maxProductTree.py
 > * newInterval.py
