@@ -34,6 +34,7 @@ All of the ones I have attempted/completed
 > * maxProductTree.py
 > * newInterval.py
 > * kFreqElements.py
+> * LongestBeautifulSubString.py
 > * numOfSubarrays.py
 > * minFallingPathSum.py
 > * characterReplacement.py
