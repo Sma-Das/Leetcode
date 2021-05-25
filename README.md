@@ -12,6 +12,7 @@ All of the ones I have attempted/completed
 > * intersection.py
 > * vowelReverse.py
 ### Medium
+> * minOperations.py
 > * nonDecreasingArray.py
 > * uglyNumber.py
 > * alphabetBoardPath.py
