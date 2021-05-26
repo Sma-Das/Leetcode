@@ -18,6 +18,7 @@ All of the ones I have attempted/completed
 > * alphabetBoardPath.py
 > * mergeIntervals.py
 > * leastUniqueInts.py
+> * maximumUniqueSubarray.py
 > * spiralMatrix.py
 > * maxAverageSum.py
 > * displayTable.py
@@ -25,6 +26,7 @@ All of the ones I have attempted/completed
 > * LinkedListBinaryTree.py
 > * canReach.py
 > * maxProfit.py
+> * minimumLength.py
 > * hasAllCodes.py
 > * numsSameConsecDiff.py
 > * maxEvents.py
