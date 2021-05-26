@@ -1,14 +1,13 @@
 import os
-import pprint
 
 
 if __name__ == '__main__':
     file_name = "README.md"
 
     terms = [
-        "### Easy\n",
-        "### Medium\n",
-        "### Hard\n",
+        "### 1-Easy\n",
+        "### 2-Medium\n",
+        "### 3-Hard\n",
     ]
 
     with open(file_name, "r+") as file:

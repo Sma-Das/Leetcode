@@ -2,7 +2,7 @@
 
 All of the ones I have attempted/completed
 
-### Easy
+### 1-Easy
 > * intersection_II.py
 > * maxDepth.py
 > * countNegatives.py
@@ -11,7 +11,7 @@ All of the ones I have attempted/completed
 > * runningSum.py
 > * intersection.py
 > * vowelReverse.py
-### Medium
+### 2-Medium
 > * minOperations.py
 > * nonDecreasingArray.py
 > * uglyNumber.py
@@ -45,7 +45,7 @@ All of the ones I have attempted/completed
 > * characterReplacement.py
 > * DiceTargetSum.py
 > * countVowelString.py
-### Hard
+### 3-Hard
 > * uniquePathsIII.py
 > * minDistance.py
 > * RussianDolls.py
