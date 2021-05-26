@@ -20,6 +20,7 @@ All of the ones I have attempted/completed
 > * leastUniqueInts.py
 > * maximumUniqueSubarray.py
 > * spiralMatrix.py
+> * maxDistance.py
 > * maxAverageSum.py
 > * displayTable.py
 > * findCenter.py
