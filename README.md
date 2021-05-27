@@ -17,6 +17,7 @@ All of the ones I have attempted/completed
 > * nonDecreasingArray.py
 > * checkInclusion.py
 > * uglyNumber.py
+> * numRescueBoats.py
 > * alphabetBoardPath.py
 > * mergeIntervals.py
 > * leastUniqueInts.py
