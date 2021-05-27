@@ -14,10 +14,12 @@ All of the ones I have attempted/completed
 ### 2-Medium
 > * minOperations.py
 > * nonDecreasingArray.py
+> * checkInclusion.py
 > * uglyNumber.py
 > * alphabetBoardPath.py
 > * mergeIntervals.py
 > * leastUniqueInts.py
+> * maxProfitAssigned.py
 > * maximumUniqueSubarray.py
 > * spiralMatrix.py
 > * maxDistance.py
