@@ -3,6 +3,7 @@
 All of the ones I have attempted/completed
 
 ### 1-Easy
+> * backspaceCompare.py
 > * intersection_II.py
 > * maxDepth.py
 > * countNegatives.py
@@ -21,9 +22,11 @@ All of the ones I have attempted/completed
 > * leastUniqueInts.py
 > * maxProfitAssigned.py
 > * maximumUniqueSubarray.py
+> * biggestMountain.py
 > * spiralMatrix.py
 > * maxDistance.py
 > * maxAverageSum.py
+> * pushDominoes.py
 > * displayTable.py
 > * findCenter.py
 > * LinkedListBinaryTree.py
