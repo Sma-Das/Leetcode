@@ -5,6 +5,8 @@ All of the ones I have attempted/completed
 ### 1-Easy
 > * backspaceCompare.py
 > * intersection_II.py
+> * isPalindrome.py
+> * PalindromeLinkedList.py
 > * maxDepth.py
 > * countNegatives.py
 > * isBalanced.py
