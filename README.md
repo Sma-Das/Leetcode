@@ -60,6 +60,7 @@ All of the ones I have attempted/completed
 > * minDistance.py
 > * RussianDolls.py
 > * MaxRequests.py
+> * orderlyQueue.py
 > * RangeModule.py
 > * getCoprimes.py
 > * maxPathSum.py
