@@ -1,5 +1,4 @@
 from collections import defaultdict
-from operator import itemgetter
 from math import gcd
 
 
