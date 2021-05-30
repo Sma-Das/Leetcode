@@ -14,6 +14,7 @@ All of the ones I have attempted/completed
 > * runningSum.py
 > * intersection.py
 > * vowelReverse.py
+> * diStringMatch.py
 ### 2-Medium
 > * minOperations.py
 > * nonDecreasingArray.py
