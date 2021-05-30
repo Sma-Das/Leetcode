@@ -19,6 +19,7 @@ All of the ones I have attempted/completed
 > * nonDecreasingArray.py
 > * checkInclusion.py
 > * uglyNumber.py
+> * matrixScore.py
 > * numRescueBoats.py
 > * alphabetBoardPath.py
 > * mergeIntervals.py
@@ -59,5 +60,6 @@ All of the ones I have attempted/completed
 > * RussianDolls.py
 > * MaxRequests.py
 > * RangeModule.py
+> * getCoprimes.py
 > * maxPathSum.py
 > * isPossible.py
