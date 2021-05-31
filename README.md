@@ -11,7 +11,9 @@ All of the ones I have attempted/completed
 > * countNegatives.py
 > * isBalanced.py
 > * lengthLastWord.py
+> * arrayPairSum.py
 > * runningSum.py
+> * removeDuplicates.py
 > * intersection.py
 > * vowelReverse.py
 > * diStringMatch.py
@@ -28,10 +30,12 @@ All of the ones I have attempted/completed
 > * maxProfitAssigned.py
 > * maximumUniqueSubarray.py
 > * biggestMountain.py
+> * checkPow3.py
 > * spiralMatrix.py
 > * maxDistance.py
 > * maxAverageSum.py
 > * pushDominoes.py
+> * countBattleships.py
 > * displayTable.py
 > * findCenter.py
 > * LinkedListBinaryTree.py
