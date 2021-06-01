@@ -1,6 +1,6 @@
 def minFallingPathSum():
     if not matrix:
-         return 0
+        return 0
 
     for row in range(1, len(matrix)):
         prev_row = matrix[row-1]

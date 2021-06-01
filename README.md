@@ -20,6 +20,7 @@ All of the ones I have attempted/completed
 ### 2-Medium
 > * minOperations.py
 > * nonDecreasingArray.py
+> * maxAncestorDiff.py
 > * checkInclusion.py
 > * uglyNumber.py
 > * matrixScore.py
