@@ -18,6 +18,7 @@ All of the ones I have attempted/completed
 > * vowelReverse.py
 > * diStringMatch.py
 ### 2-Medium
+> * findOrder.py
 > * minOperations.py
 > * nonDecreasingArray.py
 > * maxAncestorDiff.py
