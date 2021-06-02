@@ -10,6 +10,7 @@ All of the ones I have attempted/completed
 > * maxDepth.py
 > * countNegatives.py
 > * isBalanced.py
+> * checkSortRotate.py
 > * lengthLastWord.py
 > * arrayPairSum.py
 > * runningSum.py
