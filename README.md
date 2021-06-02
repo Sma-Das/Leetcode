@@ -6,6 +6,7 @@ All of the ones I have attempted/completed
 > * backspaceCompare.py
 > * intersection_II.py
 > * isPalindrome.py
+> * increasingBST.py
 > * PalindromeLinkedList.py
 > * maxDepth.py
 > * countNegatives.py
