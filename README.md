@@ -33,6 +33,7 @@ All of the ones I have attempted/completed
 > * maxProfitAssigned.py
 > * maximumUniqueSubarray.py
 > * biggestMountain.py
+> * minSetSize.py
 > * checkPow3.py
 > * spiralMatrix.py
 > * maxDistance.py
@@ -52,6 +53,7 @@ All of the ones I have attempted/completed
 > * CoinChange.py
 > * findLongestWord.py
 > * isValidBST.py
+> * Notes.md
 > * maxProductTree.py
 > * rotateBox.py
 > * newInterval.py
