@@ -27,6 +27,7 @@ All of the ones I have attempted/completed
 > * checkInclusion.py
 > * uglyNumber.py
 > * matrixScore.py
+> * courseSchedule.py
 > * numRescueBoats.py
 > * alphabetBoardPath.py
 > * mergeIntervals.py
