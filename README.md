@@ -49,6 +49,7 @@ All of the ones I have attempted/completed
 > * maxProfit.py
 > * minimumLength.py
 > * hasAllCodes.py
+> * kthGrammar.py
 > * numsSameConsecDiff.py
 > * maxEvents.py
 > * 01Matrix.py
