@@ -33,6 +33,7 @@ All of the ones I have attempted/completed
 > * mergeIntervals.py
 > * leastUniqueInts.py
 > * maxProfitAssigned.py
+> * isValid.py
 > * maximumUniqueSubarray.py
 > * biggestMountain.py
 > * minSetSize.py
