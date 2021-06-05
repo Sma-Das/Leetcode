@@ -3,6 +3,7 @@
 All of the ones I have attempted/completed
 
 ### 1-Easy
+> * isSumEqual.py
 > * backspaceCompare.py
 > * intersection_II.py
 > * isPalindrome.py
@@ -57,6 +58,7 @@ All of the ones I have attempted/completed
 > * CoinChange.py
 > * findLongestWord.py
 > * isValidBST.py
+> * addTwoNumbers.py
 > * Notes.md
 > * maxProductTree.py
 > * rotateBox.py
@@ -66,6 +68,7 @@ All of the ones I have attempted/completed
 > * numOfSubarrays.py
 > * minFallingPathSum.py
 > * characterReplacement.py
+> * removeNthNodeFromEnd.py
 > * DiceTargetSum.py
 > * countVowelString.py
 ### 3-Hard
