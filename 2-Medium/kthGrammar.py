@@ -9,7 +9,8 @@ class Solution:
             elif s in log:
                 return history[s]
             l = len(s)
-            history[s] = builder(s[:l//2], history, log) + builder(s[l//2:], history, log)
+            history[s] = builder(s[:l//2], history, log) + \
+                builder(s[l//2:], history, log)
             log.add(s)
             return history[s]
         s, l = "0", 1

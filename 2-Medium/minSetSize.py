@@ -4,7 +4,8 @@ import collections
 
 class Solution:
     def minSetSize(self, arr: List[int]) -> int:
-        counter = collections.Counter(arr)  # speed increse for collections.Counter
+        # speed increse for collections.Counter
+        counter = collections.Counter(arr)
         counter = list(counter.values())
         counter.sort(reverse=True)
 
