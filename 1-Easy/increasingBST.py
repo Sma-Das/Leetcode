@@ -3,7 +3,7 @@ Focus was on optimisation of the problem. Although it should maybe sneak into an
 
 83.77% // 71.05%
 """
-
+import bisect
 # Definition for a binary tree node.
 
 

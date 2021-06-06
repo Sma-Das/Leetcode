@@ -10,10 +10,10 @@ class Solution:
             return int("".join(str(ord(v)-ord('a')) for v in s))
         return n(fW) + n(sW) == n(tW)
 
+    def isSumEqual3(self, fW: str, sW: str, tW: str) -> bool:
         l = {"a": "0", "b": "1", "c": "2", "d": "3", "e": "4",
              "f": "5", "g": "6", "h": "7", "i": "8", "j": "9"}
 
-    def isSumEqual3(self, fW: str, sW: str, tW: str) -> bool:
         def num(s):
             return int("".join(l[v] for v in s))
         return num(fW) + num(sW) == num(tW)
