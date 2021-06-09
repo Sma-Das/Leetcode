@@ -97,3 +97,9 @@ This was highlighted after using minSetSize and noticed the ~200ms difference be
 A second note I noticed from the exercise,
 
 `list.sort()` outperforms `list=sorted(list)`
+
+
+9/6/21
+3-Hard/mergeKLists.py
+
+I would have liked to implemented a merge sort, as I feel that is what was desired by the question and it feels the most optimal, although it can taken into dispute that it is not better than the current `O(n)` solution I have implemented as it performs 3 `O(n)` operations
