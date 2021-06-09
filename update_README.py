@@ -10,6 +10,11 @@ if __name__ == '__main__':
         "### 3-Hard\n",
     ]
 
+    ignore_list = [
+        "LinkedListBuilder.py",
+        "__pycache__"
+    ]
+
     with open(file_name, "r+") as file:
         contents = file.readlines()
         for term in terms:
@@ -20,12 +25,10 @@ if __name__ == '__main__':
             folder_contents = os.listdir(f"./{folder_name}")
 
             for j, project in enumerate(folder_contents, start=1):
-                proj_name = f"> * {project}\n"
-                if proj_name in contents:
+                if (proj_name := f"> * {project}\n") in contents or project in ignore_list:
                     continue
                 else:
                     contents.insert(i+j, proj_name)
-
     with open(file_name, "w") as file:
         file.write("".join(contents))
     print(f"Updated {file_name}")

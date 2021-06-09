@@ -19,12 +19,12 @@ class ListNodeBuilder:
         self.head = self.build_list(iter(iterable))
         self.iterable = iterable  # In case you want to retain the original iterable
 
-    def build_list(self, iterable: iter = None) -> LinkedList:
+    def build_list(self, iterable: iter = None) -> ListNode:
         if iterable is None:
             iterable = self.iterable
-        head = pointer = LinkedList()
+        head = pointer = ListNode()
         while pointer:
-            pointer.val, pointer.next = next(iterable, None), LinkedList()
+            pointer.val, pointer.next = next(iterable, None), ListNode()
             if pointer.val is None:
                 break
             pointer = pointer.next

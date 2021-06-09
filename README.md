@@ -75,6 +75,7 @@ All of the ones I have attempted/completed
 > * uniquePathsIII.py
 > * minDistance.py
 > * RussianDolls.py
+> * mergeKlists.py
 > * MaxRequests.py
 > * orderlyQueue.py
 > * RangeModule.py
@@ -103,3 +104,8 @@ A second note I noticed from the exercise,
 3-Hard/mergeKLists.py
 
 I would have liked to implemented a merge sort, as I feel that is what was desired by the question and it feels the most optimal, although it can taken into dispute that it is not better than the current `O(n)` solution I have implemented as it performs 3 `O(n)` operations
+
+
+./update_README.py
+
+Needs a redo
