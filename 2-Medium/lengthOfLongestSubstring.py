@@ -1,3 +1,5 @@
+import collections
+
 class Solution:
     def lengthOfLongestSubstring(self, input_string: str) -> int:
         seen, count, queue, max_len = {None}, 0, collections.deque(), 0
